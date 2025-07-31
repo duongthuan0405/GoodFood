@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="avatarCircle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="item_categories" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="best_seller_item">
+        <item name="cornerSize">20dp</item>
+    </style>
+
+    <style name="saleOff">
+        <item name="cornerSize">20%</item>
+    </style>
+
+</resources>
